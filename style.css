@@ -16,3 +16,11 @@ div{
     font-size: larger;
     color: blue;
 }
+
+.myclass{
+    padding: 25px;
+    border: 3px solid red;
+    background-color: skyblue;
+    position: sticky;
+    top: 0;
+}
